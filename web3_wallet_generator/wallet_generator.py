@@ -1,4 +1,4 @@
-from .blockchains import Ethereum, Avalanche, Cosmos
+from .blockchains import Ethereum, Avalanche, Cosmos, Algorand
 
 class WalletGenerator:
     def __init__(self):
@@ -6,6 +6,7 @@ class WalletGenerator:
             'ethereum': Ethereum(),
             'avalanche': Avalanche(),
             'cosmos': Cosmos(),
+            'algorand': Algorand()
         }
 
     def generate_wallet(self, blockchain, wallet_name=None):
