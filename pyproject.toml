@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "web3wallets"
+version = "0.1.0"
+
+[project.dependencies]
+eth_account = "*"
+coincurve = "*"
+pysha3 = "*"
+bech32 = "*"
+ecdsa = "*"
+hdwallets = "*"
+mnemonic = "*"
