@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"julia.environmentPath": "/Volumes/Work&Study/Trading/degen/telegram/blockchain/web3wallets"
+	}
+}

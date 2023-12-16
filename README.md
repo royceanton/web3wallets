@@ -60,6 +60,9 @@ After running this code, you'll find a new JSON file in the wallets directory. T
 | Ethereum   | Yes       | ✅     |
 | Avalanche  | Yes       | ✅     |
 | Cosmos     | Yes       | ✅     |
+| Algorand   | Yes       | ✅     |
+| Aptos      | Planned   | 🚧     |
+| Sui        | Planned   | 🚧     |
 | Bitcoin    | Planned   | 🚧     |
 | Polkadot   | Planned   | 🚧     |
 | ...        | ...       | ...    |
