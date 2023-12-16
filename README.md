@@ -55,8 +55,6 @@ After running this code, you'll find a new JSON file in the wallets directory. T
 
 ## Supported Blockchains
 
-```markdown
-
 | Blockchain | Supported | Status |
 |------------|-----------|--------|
 | Ethereum   | Yes       | ✅     |
@@ -65,3 +63,10 @@ After running this code, you'll find a new JSON file in the wallets directory. T
 | Bitcoin    | Planned   | 🚧     |
 | Polkadot   | Planned   | 🚧     |
 | ...        | ...       | ...    |
+
+## Contributing
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+
+## License
+This project is licensed under the terms of the [MIT license](LICENSE).
+
